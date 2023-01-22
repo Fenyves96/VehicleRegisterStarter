@@ -1,8 +1,8 @@
 package hu.fenyvesvolgyimate.vehicleregisterapp;
 
 import hu.fenyvesvolgyimate.vehicleregisterapp.controller.VehicleController;
-import hu.fenyvesvolgyimate.vehicleregisterapp.dao.FileVehicleRepository;
-import hu.fenyvesvolgyimate.vehicleregisterapp.dao.VehicleRepository;
+import hu.fenyvesvolgyimate.vehicleregisterapp.storage.FileVehicleRepository;
+import hu.fenyvesvolgyimate.vehicleregisterapp.storage.VehicleRepository;
 import hu.fenyvesvolgyimate.vehicleregisterapp.interactor.JsonVehicleRegister;
 import hu.fenyvesvolgyimate.vehicleregisterapp.interactor.VehicleRegister;
 import hu.fenyvesvolgyimate.vehicleregisterapp.controller.VehicleConsoleController;
